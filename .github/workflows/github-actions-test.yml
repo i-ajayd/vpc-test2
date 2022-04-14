@@ -1,4 +1,4 @@
-name: Vpc Test2 Container
+name: Vpc Test App 2
 on: [push]
 jobs:
   build:
